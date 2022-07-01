@@ -5,7 +5,7 @@ package Eventos;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "BENE NA ÁREA!!";
     }
 
     public static void main(String[] args) {
